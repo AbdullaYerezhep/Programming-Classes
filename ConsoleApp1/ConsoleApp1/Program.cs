@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("one more extra line");
             Console.WriteLine("line on gitHub");
             Console.WriteLine("The newest extra line for VS");
+            Console.WriteLine("this line is even better on GitHub");
         }
     }
 }
